@@ -29,7 +29,7 @@
           <lighting>1</lighting>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/White</name>
+            <name>Gazebo/Grey</name>
           </script>
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
@@ -127,7 +127,7 @@
           <lighting>1</lighting>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/White</name>
+            <name>Gazebo/Grey</name>
           </script>
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
@@ -225,7 +225,7 @@
           <lighting>1</lighting>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/White</name>
+            <name>Gazebo/Grey</name>
           </script>
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
@@ -323,7 +323,7 @@
           <lighting>1</lighting>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/White</name>
+            <name>Gazebo/Grey</name>
           </script>
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
@@ -421,7 +421,7 @@
           <lighting>1</lighting>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/White</name>
+            <name>Gazebo/Grey</name>
           </script>
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
